@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607815897501",
+    "project_id": "peliculas-fa8b4",
+    "storage_bucket": "peliculas-fa8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607815897501:android:b302d3893fa570261e1f74",
+        "android_client_info": {
+          "package_name": "ayala.diego.peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdTRhwGB26Dcl5LtmYMO2VcGaAWJJ4F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
